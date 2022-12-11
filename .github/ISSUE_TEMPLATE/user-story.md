@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a Data Analyst** [role]  
- **I need some data about the match from yesterday** [function]  
- **So that I can create some valuable stats which we can publish** [benefit]  
+**As a Data Analyst**  
+ **I need some data about the match from yesterday**
+ **So that I can create some valuable stats which we can publish** 
    
  ### Details and Assumptions
  * [document what you know]
@@ -18,6 +18,6 @@ assignees: ''
    
  ```gherkin
  Given the data about players
- When [certain action is taken]
- Then [the outcome of action is observed]
+ When you select a team
+ Then players stats will shown.
  ```
